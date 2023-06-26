@@ -6,4 +6,4 @@ During the pandemic I built the following:
 - https://anim8.us (**Ruby on Rails**, **React.js**, **React-Redux**, **Docker**)
 - https://lomanart.com (**Nextjs**, **Netlify**)
  
-I would love any opportunity that allows me to continue my professional growth with the React ecosystem, even more so if that also means other opportunities to further grow with backend or devOps technologies. I'm well-disciplined, self-driven, and eager to start the next step in my career. I have been working remotely for more than four years and am very comfortable in that space. Cheers!
+In the years since, I had the pleasure of helping UpStack maitain, rebuild, and create brand new portals for their business needs. I would love any opportunity that allows me to continue my professional growth with the React ecosystem, even more so if that also means other opportunities to further grow with backend or devOps technologies. I'm well-disciplined, self-driven, and eager to start the next step in my career. I have been working remotely for more than four years and am very comfortable in that space. Cheers!
